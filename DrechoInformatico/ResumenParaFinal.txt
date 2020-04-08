@@ -1,0 +1,97 @@
+Derecho: es un conjunto de normas de reglas que regulan la conducta humana en la solciedad.
+
+
+Derecho Positivo: 
+Derecho Privado: relaciones juridicas entre particulares
+
+
+Derechos Subjetivos.
+
+----Derechos Extrapatrimoniales:no son susceptibles de apreacion economica ----------
+-Derechos de Familia: concedidas a determinadas personas, en razon de un vinculo familiar.
+
+-Derecho personalismos: son derechos que protegen la personalidad humana en sus distintos aspectos.
+
+------Derechos patrimonial: son suceptibles de tener un valor economico--------
+
+-Derechos Reales: son los que otorgan facultad o poder sobre una cosa, sea para disponer de ella, usarla, aprovechar sus frutos.
+
+-Derechos Personales: son aquellos que otorgan a su titular la facultad de exigir de otra persona el cumplimiento de una determinada obligacion.
+
+-Derechos Intelectuales: son los que corresponden al autor de una obra artistica, literaria o cienticca disponer de la misma y para impedir que otros copien o reproduzcan.
+
+
+
+Doctrina es conjunto de opiniones y conclusiones de los juristicas
+
+
+Fuentes del Derecho: son los distintos modos de creacion o de expresion del derecho positivo
+-Formales: son las normas de aplicacion obligatoria para el interprete.
+-Materiales: no son de aplicaciones obligatoria y solo se aplicaran segun su bondad o poder de conviccion.
+
+
+
+-----------------Clasificacion de Hechos Juridicos-------------
+
+-Hechos Juridicos: Son aquellos que se producen por causas extrañanas al hombre pueden dar a lugar a oefectos juridicos
+Ej: Muerte de una persona, puede destruir una casa
+-Hechos Humanos: son aquellos realizados por el hombre
+Ej: edificar, comprar, sembrar.
+
+
+-----Capacidad--------------
+Es la aptitud de la perosona para adquirir derechos y contraer obligaciones 
+
+-Capacidad del derecho: aptitud para ser titular de un derecho o de una obligacion
+-Capacidad de hecho: aptitud para ejercer por si mismo los derechos y las obligaciones de las que es titular.
+
+-Incapacidad de derecho: cuando la ley prohibe a una persona ser titular de un derecho
+
+--Los Menores: hasta la edad de 21 años se es incapaz, pero esta situcion juridica
+-Menores impuberes (0 a 14): son incapaces de hecho absolutos, tienen incapacidad para realizar cualquier tipo de actos.
+
+-Menores Adultos: son los que tienen mas de 14 , son incapaces de hecho relativos y solo tienen capacidad para realizar ciertos actos
+
+
+Habeas data
+1. Qué es el HD? Un derecho de propiedad, un servicio informático, un programa, una 
+licencia, un contrato, una garantía constitucional, un deber jurídico?
+Es una garantía constitucional(instrumentos que la Constitución Nacional pone a disposición de los habitantes para sostener y defender sus derechos frente a las autoridades, individuos o grupos sociales)
+
+ 2. Para qué sirve? Qué derechos garantiza y de qué tipo son? 
+Confirma el derecho de cualquier persona física o jurídica para solicitar y obtener la información existente sobre su persona, y de solicitar su eliminación o corrección si fuera falsa o estuviera desactualizada.
+Garantiza el derecho al honor, a la imagen, a la intimidad, que son personalísimos (extrapatrimoniales), del derecho subjetivo.
+
+software 
+derecho al olvido:
+ El derecho al olvido es un concepto relacionado con el Habeas Data y la protección de datos personales, el derecho al honor, intimidad e imagen. 
+ los motores de búsqueda que eliminen o bloqueen un dato personal suyo por considerar que afecta alguno de sus derechos fundamentales
+cancelacion de la deda
+datos personal: Son la información de cualquier tipo referida a personas físicas o de existencia ideal
+determinadas o determinables.
+
+
+datos sensibles: 
+Refiere a los datos personales que revelan origen racial y opiniones políticas,
+convicciones religiosas, filosóficas o morales, afiliación sindical e información referente a la salud o la vida sexual
+ley de software
+que es una marca,obra, intelectual?
+
+DOMINIOS Y MARCAS 
+Que es una marca:  es un bien jurídico, forma parte de un patrimonio de una persona física o jurídica y sirve para identificar y diferenciar bienes y servicios en el mercado.
+Objetivo de la marca
+Que es el inpi: instituto nacional de propiedad intelectual
+Por cuánto tiempo tengo la marca/costo
+
+Dominio: no es gratuito
+Registro del dominio es un acto administrativo. Una ley esta x encima de un acto administrativo.
+
+
+Cuales son los 3 requisitos para que algo sea patentable
+Que encuadre jurídico tiene? 
+Es un derecho de tipo… patrimonial
+EL SOFTWARE NO SE PATENTA, está protegido por derecho de autor
+
+
+
+Existen dos tipos de software, el aplicativo y el de base. El de base generalmente se adquiere en el momento mismo de la adquisición del equipo físico; el aplicativo por lo contrario es aquel hecho a la medida del cliente, de acuerdo a sus necesidades. se llevará a cabo una compraventa o licencia de uso, un contrato de asesoría o desarrollo del software y según la forma elegida de contratación se determinará el precio y la forma de pago.

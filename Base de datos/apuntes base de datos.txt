@@ -1,0 +1,39 @@
+----------------Apuntes para base de datos------------
+¿que es una base de datos? 
+Conjunto de informacion perteneciente a un mismo contexto, ordenando de modo sistematico para si posterior recuperacion, analisis y transmision.
+
+
+---------Tipos de base de datos---------------
+
+Base de datos estaticas: Tipicas de la inteligencia empresarial y otras areas de analisis historicos, son base de datos de solo lectura, de las cuales se puede extraer informacion, pero no modificar la ya existente
+
+Base de datos dinamicas: Aparte de las operaciones basicas de consulta, estas bases de datos manejan procesos de actualizacion, reorganizacion añadidura y borrado de informacion.
+
+Mejora en la seguridad:
+La seguridad de la base de datos es la protección de la base de datos frente a usuarios no autorizados. Sin unas buenas medidas de seguridad, la integración de datos en los sistemas de bases de datos hace que éstos sean más vulnerables que en los sistemas de ficheros.
+
+Mejora en la accesibilidad a los datos:
+Muchos SGBD proporcionan lenguajes de consultas o generadores de informes que permiten al usuario hacer cualquier tipo de consulta sobre los datos, sin que sea necesario que un programador escriba una aplicación que realice tal tarea
+
+Mejora en el mantenimiento:
+En los sistemas de ficheros, las descripciones de los datos se encuentran inmersas en los programas de aplicación que los manejan.
+
+Esto hace que los programas sean dependientes de los datos, de modo que un cambio en su estructura, o un cambio en el modo en que se almacena en disco, requiere cambios importantes en los programas cuyos datos se ven afectados.
+
+Consistencia de datos:
+Eliminando o controlando las redundancias de datos se reduce en gran medida el riesgo de que haya inconsistencias. Si un dato está almacenado una sola vez, cualquier actualización se debe realizar sólo una vez, y está disponible para todos los usuarios inmediatamente. Si un dato está duplicado y el sistema conoce esta redundancia, el propio sistema puede encargarse de garantizar que todas las copias se mantienen consistentes.
+
+Compartir datos:
+En los sistemas de ficheros, los ficheros pertenecen a las personas o a los departamentos que los utilizan. Pero en los sistemas de bases de datos, la base de datos pertenece a la empresa y puede ser compartida por todos los usuarios que estén autorizados.
+
+algebra relaciona:
+es un conjunto de operaciones que describen paso a paso como computar una respuesta sobre las relaciones 
+tal y como estan son definidas en el modelo relacional
+
+Algebra procedural de consulta
+Proyeccion PI: Nos permite extraer columnas o atributos de una relación
+Seleccion s
+Producto Cartesiano X
+Union ? la union de dos relaciones r1 y r2 con esquemas compatibles 
+Diferencia -
+Renombriamiento
